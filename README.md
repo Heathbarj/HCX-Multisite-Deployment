@@ -13,7 +13,7 @@ Functions for HCX API Calls By William Lam
 
 Script Tested and Runs in PowerShell 5.1
 
-PowerShell 7.x does not work for the Get SSL Function See other
+PowerShell 7.x does not work for this version of the Script.
 
 PowerCli 12.7
 
